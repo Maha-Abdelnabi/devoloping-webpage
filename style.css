@@ -1,7 +1,7 @@
 body {
   background-color: #d9dcd6;
 }
-
+/*logo and list*/
 .head {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
@@ -37,7 +37,7 @@ a {
   text-decoration: none;
   cursor: pointer;
 }
-
+/*section block content*/
 .first {
   width: 70%;
   display: inline-block;
@@ -59,11 +59,13 @@ p {
   font-size: 16px;
   padding: 5px;
 }
+/*left side images*/
 #left,
 #pic {
   float: left;
   margin-right: 25px;
 }
+/*section block content*/
 .second,
 .third {
   width: 70%;
@@ -76,11 +78,12 @@ p {
   background-color: #0072bb;
   color: #ffffff;
 }
+/*image to the right*/
 #right {
   float: right;
   margin-left: 25px;
 }
-
+/*side column*/
 .side {
   position: absolute;
   top: 966px;
@@ -102,13 +105,16 @@ h3 {
   text-align: center;
   font-size: 20px;
 }
+/*side images*/
 .photo {
   display: block;
   margin-left: 25px;
 }
+/*side content*/
 .addition {
   text-align: left;
 }
+/*footer*/
 .end {
   padding: 30px;
 
